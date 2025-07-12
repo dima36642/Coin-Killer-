@@ -24,4 +24,3 @@ contract CoinKiller is ERC20, Ownable {
         _mint(initialOwner, initialSupply); // Mints the tokens to the owner's address.
     }
 }
-0xc6f18277a871324bfb0253e15ff6455b35778ef6
